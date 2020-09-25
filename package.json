@@ -1,0 +1,22 @@
+{
+  "name": "music-box",
+  "version": "0.1.0",
+  "description": "layout-designer-project-lvl2",
+  "main": "",
+  "dependencies": {
+    "surge": "^0.21.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptobfund/layout-designer-project-lvl2.git"
+  },
+  "author": "Johnik",
+  "license": "MIT",
+  "devDependencies": {
+    "htmlhint": "^0.14.1",
+    "stylelint": "^13.7.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0"
+  }
+}
